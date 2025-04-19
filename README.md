@@ -65,15 +65,6 @@ npm run dev
 
 > Vite will serve the app at `localhost:5173`
 
-## 📅 Availability
 
-This project will remain deployed and accessible on **April 19-20** for AWS Console Review.
 
----
 
-## 👤 Author
-
-Prepared by: `Your Name`  
-Email: `your@email.com`
-
-🗓 Date: April 19, 2025
